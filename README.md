@@ -26,9 +26,3 @@ Sou uma pessoa focada em **BI, Automação e Dados** focado no desenvolvimento d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Sheets API](https://img.shields.io/badge/Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DFelipedias&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
