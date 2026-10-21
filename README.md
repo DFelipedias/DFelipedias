@@ -31,5 +31,4 @@ Sou uma pessoa focada em **BI, Automação e Dados** focado no desenvolvimento d
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DFelipedias&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DFelipedias&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
